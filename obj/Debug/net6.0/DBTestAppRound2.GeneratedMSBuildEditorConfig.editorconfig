@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Calum\Documents\ExperimentalProjs\DBTestAppRound2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
