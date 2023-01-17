@@ -25,7 +25,7 @@ namespace DBTestAppRound2.Items
         }
 
         [BindProperty]
-        public Item Item { get; set; }
+        public Item Item { get; set; } = default!;
         
 
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD

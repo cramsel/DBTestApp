@@ -16,32 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Calum\Documents\ExperimentalProjs\DBTestAppRound2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SXRlbXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SXRlbXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Items/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SXRlbXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Calum/Documents/ExperimentalProjs/DBTestAppRound2/Pages/Privacy.cshtml]
